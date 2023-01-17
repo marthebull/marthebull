@@ -1,6 +1,4 @@
-# Hey there!
-
-## 👋 Im a Designer and Front-end developer 
+# Hey there! Im a Designer and Front-end developer 
 
 
 👩‍🎨 Junior Web Designer at [Maksimer](https://maksimer.no/)
