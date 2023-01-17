@@ -2,6 +2,7 @@
 
 ## 👋 Im a Designer and Front-end developer 
 
+
 👩‍🎨 Junior Web Designer at [Maksimer](https://maksimer.no/)
 
 🇸🇯 Based in Bergen, Norway
