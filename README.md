@@ -1,6 +1,6 @@
 ## Hey 👋 Im a Designer and Front-end developer 
-
-
+<br/>
+<br/>
 👩‍🎨 Junior Web Designer at [Maksimer](https://maksimer.no/)<br/>
 🇸🇯 Based in Bergen, Norway<br/>
 🧠 I’m currently learning React<br/>
