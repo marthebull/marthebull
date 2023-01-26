@@ -2,6 +2,7 @@
 <br/>
 <br/>
 👩‍🎨 Junior Web Designer at ![Maksimer](https://maksimer.no/)<br/>
+👩‍🎨 Junior Web Designer at [Maksimer]([url](https://maksimer.no/)) <br/>
 🇸🇯 Based in Bergen, Norway<br/>
 🧠 I’m currently learning React<br/>
 🦾 You can check out my work here ![marthebull.no](https//:marthebull.no)<br/>
