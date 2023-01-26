@@ -6,7 +6,7 @@
 🇸🇯 Based in Bergen, Norway<br/>
 🧠 I’m currently learning React<br/>
 🦾 You can check out my work here ![marthebull.no](https//:marthebull.no)<br/>
-:email: How to reach me: <a href="mailto:hello@marthebull.no">
+:email: How to reach me: <a href="mailto:hello@marthebull.no">hello@marthebull.no</a>
 &#129309; Connect via <a href="https://www.linkedin.com/in/marthe-bull-pettersen-941353218/"> <br/>
 
 <br/>
