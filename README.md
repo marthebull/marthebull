@@ -1,6 +1,7 @@
 ## Hey 👋 My name is Marthe 
 <br/>
 ### I design and develop and currently:
+
 <br/>
 👩‍🎨 Work as a Web Designer at <a href="https://maksimer.no/" target="_blank">Maksimer</a> <br/>
 🇸🇯 Based in Bergen, Norway <br/>
